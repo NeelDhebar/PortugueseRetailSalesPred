@@ -9,7 +9,7 @@ The dataset includes the following columns:
 - **date** - Date of record
 - **sales** - Number of units sold
 - **stock** - Stock available
-= **price** - Price of the product
+- **price** - Price of the product
 
 Column names were translated to English for consistency.
 
@@ -36,4 +36,5 @@ All models were trained and evaluated using a **sequential 80:20 time-based spli
 - pandas
 - numpy
 - scikit-learn
+
 - matplotlib
